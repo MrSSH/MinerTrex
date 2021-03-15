@@ -1,3 +1,5 @@
+#!/bin/sh
+./miner.sh
 sudo apt-get update 
 sudo apt-get upgrade
 wget https://github.com/trexminer/T-Rex/releases/download/0.19.11/t-rex-0.19.11-linux-cuda11.1.tar.gz
